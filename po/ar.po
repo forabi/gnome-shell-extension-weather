@@ -1,0 +1,435 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 3.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-11 00:47+0100\n"
+"PO-Revision-Date: 2013-05-19 05:17+0200\n"
+"Last-Translator: Muhammad Fawwaz Orabi <mfawwaz93@gmail.com>\n"
+"Language-Team: Arabic <mfawwaz93@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"Language: ar\n"
+
+#: ../src/extension.js:128
+msgid "..."
+msgstr "..."
+
+#: ../src/extension.js:208
+msgid "Locations"
+msgstr "المواقع"
+
+#: ../src/extension.js:212
+msgid "Reload Weather Information"
+msgstr "أعد تحميل معلومات الطقس"
+
+#: ../src/extension.js:216
+msgid "Weather Settings"
+msgstr "إعدادات الطقس"
+
+#: ../src/extension.js:242
+#, python-format
+msgid "Schema \"%s\" not found."
+msgstr "لم يُعثر على المخطط \"%s\"."
+
+#: ../src/extension.js:523 ../src/prefs.js:756
+msgid "Invalid city"
+msgstr "مُدخل المدينة غير صالح"
+
+#: ../src/extension.js:738
+msgid "Tornado"
+msgstr "زوبعة"
+
+#: ../src/extension.js:740
+msgid "Tropical storm"
+msgstr "عاصفة مدارية"
+
+#: ../src/extension.js:742 ../src/extension.js:914
+msgid "Hurricane"
+msgstr "إعصار"
+
+#: ../src/extension.js:744
+msgid "Severe thunderstorms"
+msgstr "عواصف رعدية شديدة"
+
+#: ../src/extension.js:746
+msgid "Thunderstorms"
+msgstr "عواصف رعدية"
+
+#: ../src/extension.js:748
+msgid "Mixed rain and snow"
+msgstr "مطر وثلج"
+
+#: ../src/extension.js:750
+msgid "Mixed rain and sleet"
+msgstr "مطر وصقيع"
+
+#: ../src/extension.js:752
+msgid "Mixed snow and sleet"
+msgstr "ثلج وصقيع"
+
+#: ../src/extension.js:754
+msgid "Freezing drizzle"
+msgstr "رذاذ متجمّد"
+
+#: ../src/extension.js:756
+msgid "Drizzle"
+msgstr "رذاذ"
+
+#: ../src/extension.js:758
+msgid "Freezing rain"
+msgstr "مطر متجمّد"
+
+#: ../src/extension.js:760 ../src/extension.js:762
+msgid "Showers"
+msgstr "زخات من المطر"
+
+#: ../src/extension.js:764
+#, fuzzy
+msgid "Snow flurries"
+msgstr "هبات ثلجية"
+
+#: ../src/extension.js:766
+msgid "Light snow showers"
+msgstr "زخات ثلجية خفيفة"
+
+#: ../src/extension.js:768
+#, fuzzy
+msgid "Blowing snow"
+msgstr "هبات ثلجية قوية"
+
+#: ../src/extension.js:770
+msgid "Snow"
+msgstr "ثلج"
+
+#: ../src/extension.js:772
+msgid "Hail"
+msgstr "بَرَد"
+
+#: ../src/extension.js:774
+msgid "Sleet"
+msgstr "صقيع"
+
+#: ../src/extension.js:776
+msgid "Dust"
+msgstr "غبار"
+
+#: ../src/extension.js:778
+msgid "Foggy"
+msgstr "ضباب"
+
+#: ../src/extension.js:780
+msgid "Haze"
+msgstr "سديم"
+
+#: ../src/extension.js:782
+msgid "Smoky"
+msgstr "دخان"
+
+#: ../src/extension.js:784
+msgid "Blustery"
+msgstr "هائج"
+
+#: ../src/extension.js:786
+msgid "Windy"
+msgstr "رياح"
+
+#: ../src/extension.js:788
+msgid "Cold"
+msgstr "برد"
+
+#: ../src/extension.js:790
+msgid "Cloudy"
+msgstr "غائم"
+
+#: ../src/extension.js:793
+msgid "Mostly cloudy"
+msgstr "غائم في معظمه"
+
+#: ../src/extension.js:796 ../src/extension.js:822
+msgid "Partly cloudy"
+msgstr "غائم جزئيًا"
+
+#: ../src/extension.js:798
+msgid "Clear"
+msgstr "صحو"
+
+#: ../src/extension.js:800
+msgid "Sunny"
+msgstr "مُشمِس"
+
+#: ../src/extension.js:803
+msgid "Fair"
+msgstr "معتدل"
+
+#: ../src/extension.js:805
+msgid "Mixed rain and hail"
+msgstr "مطر وبَرَد"
+
+#: ../src/extension.js:807
+msgid "Hot"
+msgstr "حَرّ"
+
+#: ../src/extension.js:809
+msgid "Isolated thunderstorms"
+msgstr "عواصف رعدية منعزلة"
+
+#: ../src/extension.js:812
+msgid "Scattered thunderstorms"
+msgstr "عواصف رعدية متفرقة"
+
+#: ../src/extension.js:814
+msgid "Scattered showers"
+msgstr "زخات منعزلة"
+
+#: ../src/extension.js:816 ../src/extension.js:820
+msgid "Heavy snow"
+msgstr "ثلج كثيف"
+
+#: ../src/extension.js:818
+msgid "Scattered snow showers"
+msgstr "زخات ثلجية متفرقة"
+
+#: ../src/extension.js:824
+msgid "Thundershowers"
+msgstr "زخات مطر رعدية"
+
+#: ../src/extension.js:826
+msgid "Snow showers"
+msgstr "زخات ثلجية"
+
+#: ../src/extension.js:828
+msgid "Isolated thundershowers"
+msgstr "زخات مطر رعدية منعزلة"
+
+#: ../src/extension.js:831
+msgid "Not available"
+msgstr "غير متوفّر"
+
+#: ../src/extension.js:878
+msgid "Calm"
+msgstr "هادئ"
+
+#: ../src/extension.js:881
+msgid "Light air"
+msgstr "هواء خفيف"
+
+#: ../src/extension.js:884
+msgid "Light breeze"
+msgstr "نسيم خفيف"
+
+#: ../src/extension.js:887
+msgid "Gentle breeze"
+msgstr "نسيم لطيف"
+
+#: ../src/extension.js:890
+msgid "Moderate breeze"
+msgstr "نسيم متوسط"
+
+#: ../src/extension.js:893
+msgid "Fresh breeze"
+msgstr "نسيم منعش"
+
+#: ../src/extension.js:896
+msgid "Strong breeze"
+msgstr "نسيم قوي"
+
+#: ../src/extension.js:899
+msgid "Moderate gale"
+msgstr "عاصفة معتدلة"
+
+#: ../src/extension.js:902
+#, fuzzy
+msgid "Fresh gale"
+msgstr "عاصفة منعشة"
+
+#: ../src/extension.js:905
+msgid "Strong gale"
+msgstr "عاصفة قوية"
+
+#: ../src/extension.js:908
+msgid "Storm"
+msgstr "عاصفة"
+
+#: ../src/extension.js:911
+msgid "Violent storm"
+msgstr "عاصفة عنيفة"
+
+#: ../src/extension.js:919
+msgid "Sunday"
+msgstr "الأحد"
+
+#: ../src/extension.js:919
+msgid "Monday"
+msgstr "الاثنين"
+
+#: ../src/extension.js:919
+msgid "Tuesday"
+msgstr "الثلاثاء"
+
+#: ../src/extension.js:919
+msgid "Wednesday"
+msgstr "الأربعاء"
+
+#: ../src/extension.js:919
+msgid "Thursday"
+msgstr "الخميس"
+
+#: ../src/extension.js:919
+msgid "Friday"
+msgstr "الجمعة"
+
+#: ../src/extension.js:919
+msgid "Saturday"
+msgstr "السبت"
+
+#: ../src/extension.js:926
+msgid "N"
+msgstr "شمالاً"
+
+#: ../src/extension.js:926
+msgid "NE"
+msgstr "في الشمال الشرقي"
+
+#: ../src/extension.js:926
+msgid "E"
+msgstr "شرقًا"
+
+#: ../src/extension.js:926
+msgid "SE"
+msgstr "في الجنوب الشرقي"
+
+#: ../src/extension.js:926
+msgid "S"
+msgstr "جنوبًا"
+
+#: ../src/extension.js:926
+msgid "SW"
+msgstr "في الجنوب الغربي"
+
+#: ../src/extension.js:926
+msgid "W"
+msgstr "غربًا"
+
+#: ../src/extension.js:926
+msgid "NW"
+msgstr "في الشمال الغربي"
+
+#: ../src/extension.js:1208 ../src/extension.js:1337
+msgid "Yesterday"
+msgstr "أمس"
+
+#: ../src/extension.js:1210 ../src/extension.js:1339
+#, python-format
+msgid "%s days ago"
+msgstr "منذ %s يومًا"
+
+#: ../src/extension.js:1331
+msgid "Today"
+msgstr "اليوم"
+
+#: ../src/extension.js:1333
+msgid "Tomorrow"
+msgstr "غدًا"
+
+#: ../src/extension.js:1335
+#, python-format
+msgid "In %s days"
+msgstr "خلال %s يومًا"
+
+#: ../src/extension.js:1371
+msgid "Loading current weather ..."
+msgstr "يحمُل معلومات الطقس الحالي..."
+
+#: ../src/extension.js:1372
+msgid "Loading future weather ..."
+msgstr "يحمّل معلومات الطقس المتوقعة مستقبلاً..."
+
+#: ../src/extension.js:1405
+msgid "Loading ..."
+msgstr "يحمّل..."
+
+#: ../src/extension.js:1408
+msgid "Please wait"
+msgstr "يُرجى الانتظار"
+
+#: ../src/extension.js:1453
+msgid "Feels like:"
+msgstr "تشعر وكأنها:"
+
+#: ../src/extension.js:1455
+msgid "Humidity:"
+msgstr "الرطوبة:"
+
+#: ../src/extension.js:1457
+msgid "Pressure:"
+msgstr "الضغط:"
+
+#: ../src/extension.js:1459
+msgid "Wind:"
+msgstr "الرياح:"
+
+#: ../src/prefs.js:124
+msgid "Temperature Unit"
+msgstr "واحدة الحرارة"
+
+#: ../src/prefs.js:126
+msgid "Wind Speed Unit"
+msgstr "واحدة سرعة الرياح"
+
+#: ../src/prefs.js:128
+msgid "Pressure Unit"
+msgstr "واحدة الضغط"
+
+#: ../src/prefs.js:130
+msgid "Position in Panel"
+msgstr "الموضع في اللوحة"
+
+#: ../src/prefs.js:131
+msgid "Center"
+msgstr "في المنتصف"
+
+#: ../src/prefs.js:131
+msgid "Right"
+msgstr "على اليمين"
+
+#: ../src/prefs.js:131
+msgid "Left"
+msgstr "على اليسار"
+
+#: ../src/prefs.js:132
+msgid "Wind Direction by Arrows"
+msgstr "اتجاه الرياح بالأسهم"
+
+#: ../src/prefs.js:134
+msgid "Translate Conditions"
+msgstr "ترجم الأوضاع"
+
+#: ../src/prefs.js:136
+msgid "Symbolic Icons"
+msgstr "أيقونات رمزية"
+
+#: ../src/prefs.js:138
+msgid "Temperature in Panel"
+msgstr "الحرارة في اللوحة"
+
+#: ../src/prefs.js:140
+msgid "Conditions in Panel"
+msgstr "الأوضاع في اللوحة"
+
+#: ../src/prefs.js:277
+msgid "Name of the city"
+msgstr "اسم المدينة"
+
+#: ../src/prefs.js:452
+#, python-format
+msgid "Remove %s ?"
+msgstr "أتريد حذف %s؟"
